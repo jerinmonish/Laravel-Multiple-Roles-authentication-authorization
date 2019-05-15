@@ -7,7 +7,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 <h1>Laravel Multiple Roles Authentication and Authorization</h1>
-<p>This application is all about Roles with authorization, Where a each role can access, their own data, if something comes in common we can manage by using only or other conditions in constructor, or something like dependency injection. So coming to this project, Here i have create three roles like 
+<p>This application is all about Roles with authorization, Where a each role can access, their own data, if something comes in common we can manage by using only or other conditions in constructor, or something like dependency injection or also routing. So coming to this project, Here i have create three roles like 
     <ul>
         <li>Admin</li>
         <li>Teacher</li>
